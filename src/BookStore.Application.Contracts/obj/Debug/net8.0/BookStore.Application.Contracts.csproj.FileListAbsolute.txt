@@ -1,0 +1,15 @@
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\bin\Debug\net8.0\BookStore.Application.Contracts.deps.json
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\bin\Debug\net8.0\BookStore.Application.Contracts.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\bin\Debug\net8.0\BookStore.Application.Contracts.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\bin\Debug\net8.0\BookStore.Domain.Shared.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\bin\Debug\net8.0\BookStore.Domain.Shared.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.AssemblyInfo.cs
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStor.55261223.Up2Date
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\refint\BookStore.Application.Contracts.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\BookStore.Application.Contracts.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Application.Contracts\obj\Debug\net8.0\ref\BookStore.Application.Contracts.dll
