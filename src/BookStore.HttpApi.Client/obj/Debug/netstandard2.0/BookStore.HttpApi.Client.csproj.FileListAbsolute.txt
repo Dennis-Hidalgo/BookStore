@@ -1,0 +1,15 @@
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.HttpApi.Client.deps.json
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.HttpApi.Client.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.HttpApi.Client.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.Application.Contracts.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.Domain.Shared.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.Application.Contracts.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\bin\Debug\netstandard2.0\BookStore.Domain.Shared.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.csproj.AssemblyReference.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.AssemblyInfoInputs.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.AssemblyInfo.cs
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStor.E09ADD51.Up2Date
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.HttpApi.Client\obj\Debug\netstandard2.0\BookStore.HttpApi.Client.pdb
