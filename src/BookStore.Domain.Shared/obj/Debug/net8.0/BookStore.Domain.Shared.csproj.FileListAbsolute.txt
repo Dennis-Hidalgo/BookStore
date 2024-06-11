@@ -1,0 +1,13 @@
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\bin\Debug\net8.0\BookStore.Domain.Shared.deps.json
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\bin\Debug\net8.0\BookStore.Domain.Shared.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\bin\Debug\net8.0\BookStore.Domain.Shared.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.AssemblyInfo.cs
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\refint\BookStore.Domain.Shared.dll
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\BookStore.Domain.Shared.pdb
+C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain.Shared\obj\Debug\net8.0\ref\BookStore.Domain.Shared.dll
