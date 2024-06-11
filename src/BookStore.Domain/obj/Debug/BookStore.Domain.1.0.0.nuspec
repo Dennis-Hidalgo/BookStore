@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BookStore.Domain</id>
+    <version>1.0.0</version>
+    <authors>BookStore.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BookStore.Domain.Shared" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.AuditLogging.Domain" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.BackgroundJobs.Domain" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Emailing" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.FeatureManagement.Domain" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Identity.Domain" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.OpenIddict.Domain" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.PermissionManagement.Domain.Identity" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.PermissionManagement.Domain.OpenIddict" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.SettingManagement.Domain" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.TenantManagement.Domain" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\DennisFabricioHidalg\Desktop\BookStore\src\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.dll" target="lib\net8.0\BookStore.Domain.dll" />
+  </files>
+</package>
